@@ -1,0 +1,7 @@
+Package: kanban
+Name: Kanban
+Description: Kanban Project Management Module for FrontAccounting.
+Type: extension
+InstallPath: modules/kanban
+Filename: kanban
+Version: 2.4.1-2
