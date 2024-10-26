@@ -7,7 +7,7 @@ Developed a Kanban-style task management module for FrontAccounting ERP.
 - FrontAccounting version 2.4.x
 
 ## Installation
-1. Rename the folder `FrontKanban-master` to `kanban` and copy it to the FA modules directory.
+1. Rename the folder `Task-Management-Tool-main` to `kanban` and copy it to the FA modules directory.
 2. For FrontAccounting version 2.4.4 and later:
    - Install and activate the module normally.
 3. For earlier versions:
